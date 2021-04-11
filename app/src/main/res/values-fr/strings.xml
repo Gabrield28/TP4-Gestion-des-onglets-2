@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mode de Paiement</string>
+    <string name="card">Carte</string>
+    <string name="paypal">PayPal</string>
+    <string name="please_select_your_mode_of_payment">Veuillez sélectionner votre mode de paiement:</string>
+    <string name="name">Nom et prénom</string>
+    <string name="card_number">Numéro de carte</string>
+    <string name="cvc_code">Code CVC</string>
+    <string name="expiry_date">Date d\'expiration</string>
+    <string name="validate">Valider</string>
+    <string name="please_input_your_card_info">Veuillez saisir les informations de votre carte :</string>
+    <string name="username">Pseudonyme</string>
+    <string name="password">Mot de passe</string>
+    <string name="please_input_your_pay_pal_info">Veuillez saisir vos informations PayPal :</string>
+    <string name="credentials_name">Nom : \t</string>
+    <string name="credentials_card_number">Numéro de  carte : \t</string>
+    <string name="credentials_username">Pseudonyme : \t</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Payment Method</string>
+    <string name="please_select_your_mode_of_payment">Please select your payment method :</string>
+    <string name="card">Card</string>
+    <string name="paypal">PayPal</string>
+    <string name="please_input_your_card_info">Please input your card info :</string>
+    <string name="name">Full Name</string>
+    <string name="card_number">Card Number</string>
+    <string name="cvc_code">CVC Code</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="validate">Validate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="please_input_your_pay_pal_info">Please input your PayPal info :</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="credentials_name">Name : \t</string>
+    <string name="credentials_card_number">Card number : \t</string>
+    <string name="credentials_username">Username : \t</string>
+</resources>
